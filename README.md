@@ -1,6 +1,6 @@
 - 👩🏼‍💻 Hi! How are you? I’m Aleksandra - @axrozwadowska
 - 🦾 I’m interested in Data Analysis and Machine Learning
-- 🌱 I’m currently studing Big Data as my MA
+- 🌱 I’m currently studying for a Masters degree in Big Data
 - 🧮 I’m looking to collaborate on AI projects
 - 📩 Please feel free to contact me at aleksandrarozwadowska@protonmail.ch 
 
