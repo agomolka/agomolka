@@ -1,4 +1,4 @@
-- 👩🏼‍💻 Hi! How are you? I’m Aleksandra - @axrozwadowska
+- 👩🏼‍💻 Hi! How are you? I’m Aleksandra - @agomolka
 - 🦾 I’m interested in Data Analysis and Machine Learning
 - 🌱 I’m currently studying for a Masters degree in Big Data
 - 🧮 I’m looking to collaborate on AI projects
