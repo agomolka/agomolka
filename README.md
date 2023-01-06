@@ -1,5 +1,5 @@
 - 👩🏼‍💻 Hi! How are you? I’m Aleksandra - @agomolka
-- 🦾 I’m interested in Data Analysis and Machine Learning
+- 🦾 I’m interested in developing intelligent applications with Machine Learning
 - 🌱 I’m currently studying for a Masters degree in Big Data
 - 🧮 I’m looking to collaborate on AI projects
 - 📩 Please feel free to contact me at agomolka@pm.me
